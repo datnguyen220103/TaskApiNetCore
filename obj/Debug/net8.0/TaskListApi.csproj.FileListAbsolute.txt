@@ -1,0 +1,7 @@
+E:\ThucTap_10_2024\WebTodo\MySQLApi\TaskListApi\obj\Debug\net8.0\TaskListApi.csproj.AssemblyReference.cache
+E:\ThucTap_10_2024\WebTodo\MySQLApi\TaskListApi\obj\Debug\net8.0\TaskListApi.GeneratedMSBuildEditorConfig.editorconfig
+E:\ThucTap_10_2024\WebTodo\MySQLApi\TaskListApi\obj\Debug\net8.0\TaskListApi.AssemblyInfoInputs.cache
+E:\ThucTap_10_2024\WebTodo\MySQLApi\TaskListApi\obj\Debug\net8.0\TaskListApi.AssemblyInfo.cs
+E:\ThucTap_10_2024\WebTodo\MySQLApi\TaskListApi\obj\Debug\net8.0\TaskListApi.csproj.CoreCompileInputs.cache
+E:\ThucTap_10_2024\WebTodo\MySQLApi\TaskListApi\obj\Debug\net8.0\TaskListApi.MvcApplicationPartsAssemblyInfo.cs
+E:\ThucTap_10_2024\WebTodo\MySQLApi\TaskListApi\obj\Debug\net8.0\TaskListApi.MvcApplicationPartsAssemblyInfo.cache
